@@ -35,8 +35,8 @@ namespace EFCoreIssueRepro
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
 
             services.AddDbContext<DataContext>
-            (options => options
-                .UseInMemoryDatabase("TestDB").UseLazyLoadingProxies());
+            (options => options.UseSqlite("Data Source=TestDB")
+                .UseLazyLoadingProxies());
 
             services.AddScoped<GetAssetsQuery>();
             services.AddScoped<GetTagsQuery>();

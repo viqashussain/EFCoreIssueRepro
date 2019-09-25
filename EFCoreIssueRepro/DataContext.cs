@@ -13,6 +13,12 @@ namespace EFCoreIssueRepro
         public DataContext(DbContextOptions<DataContext> options) : base(options)
         {
         }
+
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            modelBuilder.Entity<Asset>().ToTable("Assets");
+            modelBuilder.Entity<Tag>().ToTable("Tags");
+        }
     }
 }
 
