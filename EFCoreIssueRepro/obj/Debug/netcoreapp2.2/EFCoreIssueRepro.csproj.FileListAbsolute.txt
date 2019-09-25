@@ -1,0 +1,14 @@
+C:\git\rubbish\EFCoreIssueRepro\EFCoreIssueRepro\bin\Debug\netcoreapp2.2\EFCoreIssueRepro.deps.json
+C:\git\rubbish\EFCoreIssueRepro\EFCoreIssueRepro\bin\Debug\netcoreapp2.2\EFCoreIssueRepro.runtimeconfig.json
+C:\git\rubbish\EFCoreIssueRepro\EFCoreIssueRepro\bin\Debug\netcoreapp2.2\EFCoreIssueRepro.runtimeconfig.dev.json
+C:\git\rubbish\EFCoreIssueRepro\EFCoreIssueRepro\bin\Debug\netcoreapp2.2\EFCoreIssueRepro.dll
+C:\git\rubbish\EFCoreIssueRepro\EFCoreIssueRepro\obj\Debug\netcoreapp2.2\EFCoreIssueRepro.csprojAssemblyReference.cache
+C:\git\rubbish\EFCoreIssueRepro\EFCoreIssueRepro\obj\Debug\netcoreapp2.2\EFCoreIssueRepro.csproj.CoreCompileInputs.cache
+C:\git\rubbish\EFCoreIssueRepro\EFCoreIssueRepro\obj\Debug\netcoreapp2.2\EFCoreIssueRepro.RazorAssemblyInfo.cache
+C:\git\rubbish\EFCoreIssueRepro\EFCoreIssueRepro\obj\Debug\netcoreapp2.2\EFCoreIssueRepro.RazorAssemblyInfo.cs
+C:\git\rubbish\EFCoreIssueRepro\EFCoreIssueRepro\obj\Debug\netcoreapp2.2\EFCoreIssueRepro.AssemblyInfoInputs.cache
+C:\git\rubbish\EFCoreIssueRepro\EFCoreIssueRepro\obj\Debug\netcoreapp2.2\EFCoreIssueRepro.AssemblyInfo.cs
+C:\git\rubbish\EFCoreIssueRepro\EFCoreIssueRepro\obj\Debug\netcoreapp2.2\EFCoreIssueRepro.RazorTargetAssemblyInfo.cache
+C:\git\rubbish\EFCoreIssueRepro\EFCoreIssueRepro\bin\Debug\netcoreapp2.2\EFCoreIssueRepro.pdb
+C:\git\rubbish\EFCoreIssueRepro\EFCoreIssueRepro\obj\Debug\netcoreapp2.2\EFCoreIssueRepro.dll
+C:\git\rubbish\EFCoreIssueRepro\EFCoreIssueRepro\obj\Debug\netcoreapp2.2\EFCoreIssueRepro.pdb
